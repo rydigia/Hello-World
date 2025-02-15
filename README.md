@@ -1,6 +1,11 @@
 # Hello-World
 First Repository
-## Heading 1
-### Heading 2
+## Description
+*Hello World Repository*
+### Components
+**Git Hub Practice**
+#### LinkedIn
+[LinkedIn] (www.linkedin.com/in/ryan-digiallonardo)
 
-**bold text**
+
+
