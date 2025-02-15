@@ -6,7 +6,7 @@ First Repository
 **Git Hub Practice**
 #### LinkedIn
 [LinkedIn] (www.linkedin.com/in/ryan-digiallonardo)
-####List
+#### List
 1. One
 2. Two
 3. Three
